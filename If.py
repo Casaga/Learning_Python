@@ -1,0 +1,10 @@
+"""Clase de If/Else/Elif."""
+
+my_number = int(input('ingresa un numero entero: '))
+
+if 5 > my_number:
+	print (f"5 es mayor que {my_number}")
+elif 5 == my_number:
+	print (f"{my_number} es igual a 5")
+else:
+	print(f'{my_number} es mayor que 5')
