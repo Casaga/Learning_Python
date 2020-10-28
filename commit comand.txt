@@ -1,0 +1,3 @@
+"""commit"""
+#whit the commit comand we are able to upload the new archive to our repositori
+# git commit -m "comentary" the structure of the line that make us upload to de repository 
