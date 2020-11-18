@@ -1,0 +1,2 @@
+"""Alphabetic Substring"""
+ord("a")
